@@ -1,0 +1,7 @@
+*/*.md
+.exercism
+build
+test
+*_test.cpp
+CMakeLists.txt
+*.h
